@@ -1,13 +1,11 @@
 {
   "name": "com.alchemicalflux.package-template",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "displayName": "AlchemicalFlux Package Template",
   "description": "Unity package containing the folder and file structure for generating a working Unity Package",
   "unity": "2021.3",
-  "dependencies": {
-  },
-  "keywords": [
-  ],
+  "dependencies": {},
+  "keywords": [],
   "author": {
     "name": "Jeremy Miller",
     "email": "alchemicalflux@gmail.com",
