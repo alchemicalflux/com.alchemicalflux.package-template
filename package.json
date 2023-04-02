@@ -1,7 +1,7 @@
 {
   "name": "com.alchemicalflux.package-template",
   "version": "0.0.0-development",
-  "displayName": "AlchemicalFlux Unity Package Template",
+  "displayName": "AlchemicalFlux Package Template",
   "description": "Unity package containing the folder and file structure for generating a working Unity Package",
   "unity": "2021.3",
   "dependencies": {
