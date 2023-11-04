@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/alchemicalflux/com.alchemicalflux.package-template/compare/v1.1.0...v1.1.1) (2023-11-04)
+
+
+### Bug Fixes
+
+* Add shared sample script to silence assembly warnings ([535ac96](https://github.com/alchemicalflux/com.alchemicalflux.package-template/commit/535ac96387f5f5912b85060c0b42ff4bb06c6f6e))
+
 # [1.1.0](https://github.com/alchemicalflux/com.alchemicalflux.package-template/compare/v1.0.0...v1.1.0) (2023-11-04)
 
 
