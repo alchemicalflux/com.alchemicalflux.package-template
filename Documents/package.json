@@ -1,0 +1,14 @@
+{
+  "name": "com.alchemicalflux.package-template",
+  "version": "0.0.0-development",
+  "displayName": "AlchemicalFlux Package Template",
+  "description": "",
+  "unity": "",
+  "dependencies": {},
+  "keywords": [],
+  "author": {
+    "name": "",
+    "email": "",
+    "url": ""
+  }
+}

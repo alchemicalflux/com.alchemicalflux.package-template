@@ -1,7 +1,9 @@
 {
     "name": "AlchemicalFlux.PackageTemplate.Runtime",
     "rootNamespace": "",
-    "references": [],
+    "references": [
+        "AlchemicalFlux.PackageTemplate.Shared"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
