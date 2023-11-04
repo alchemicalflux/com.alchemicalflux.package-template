@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/alchemicalflux/com.alchemicalflux.package-template/compare/v1.0.0...v1.1.0) (2023-11-04)
+
+
+### Features
+
+* Moving template package files into Documents folder ([0636a6b](https://github.com/alchemicalflux/com.alchemicalflux.package-template/commit/0636a6bba25f2c32e00fe9f771850fa2f748f4b3))
+
 # 1.0.0 (2023-04-02)
 
 
