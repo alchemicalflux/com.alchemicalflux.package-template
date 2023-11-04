@@ -4,7 +4,8 @@
     "references": [
         "UnityEditor.TestRunner",
         "UnityEngine.TestRunner",
-        "AlchemicalFlux.PackageTemplate.Runtime"
+        "AlchemicalFlux.PackageTemplate.Runtime",
+        "AlchemicalFlux.PackageTemplate.Shared"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
